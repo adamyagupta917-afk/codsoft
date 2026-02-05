@@ -19,3 +19,16 @@ File: task2_calculator.py
 File: task3_password.py  
 - Random strong password  
 - User length input
+## How to Run
+
+1. Install Python 3
+2. Open terminal in project folder
+
+### Run Task 1
+py adtask1.py
+
+### Run Task 2
+py adtask2.py
+
+### Run Task 3
+py  adtask3.py
